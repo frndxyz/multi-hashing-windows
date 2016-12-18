@@ -1,0 +1,23 @@
+{
+  "name": "unomp-multi-hashing",
+  "version": "0.1.0",
+  "main": "multihashing",
+  "author": {
+    "name": "UNOMP",
+    "email": "steven@sigwo.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UNOMP/node-multi-hashing.git"
+  },
+  "dependencies": {
+    "ffi": "2.0.0" ,   
+  "ref": "*"
+  },
+  "keywords": [
+    "scrypt"
+    
+  ]
+    
+  
+}
